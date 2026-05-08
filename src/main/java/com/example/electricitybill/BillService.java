@@ -1,7 +1,5 @@
 package com.example.electricitybill;
 
-import com.example.electricitybill.BillEntity;
-import com.example.electricitybill.BillRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
